@@ -1,0 +1,3 @@
+sqlalchemy-hana
+llama-index==0.8.29.post1
+hdbcli
